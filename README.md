@@ -2,11 +2,25 @@
 
 ##List of transformers:
 
-BERT
-RoBERTa
-DistilBERT
-ALBERT
+BERT (Done)
+
+
+RoBERTa (Done)
+
+
+DistilBERT (Done)
+
+
+ALBERT (Done)
+
+
 Transformer-XL
+
+
 Longformer
+
+
 Reformer
+
+
 BigBird
