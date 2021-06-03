@@ -24,4 +24,6 @@ Reformer
 
 BERTweet
 
+GPT
+
 BigBird
