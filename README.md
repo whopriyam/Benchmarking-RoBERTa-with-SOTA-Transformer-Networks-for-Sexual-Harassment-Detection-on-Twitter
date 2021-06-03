@@ -1,6 +1,6 @@
 # Repo for the paper
 
-##List of transformers:
+## List of transformers:
 
 BERT (Done)
 
