@@ -2,17 +2,19 @@
 
 ### List of transformers:
 
-BERT (Done)
+BERT - Done
 
 
-RoBERTa (Done)
+RoBERTa - Done
 
 
-DistilBERT (Done)
+DistilBERT - Done
 
 
-ALBERT (Done)
+ALBERT - Done
 
+
+Ernie (On RobertaBaseCased) - Done
 
 Transformer-XL
 
@@ -22,8 +24,11 @@ Longformer
 
 Reformer
 
+
 BERTweet
 
+
 GPT
+
 
 BigBird
