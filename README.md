@@ -20,6 +20,12 @@ Ernie (On RobertaBaseCased and BERTBaseCased) and Baseline - Done
 Transformer-XL
 
 
+GPT
+
+
+T5
+
+
 Longformer
 
 
@@ -27,9 +33,6 @@ Reformer
 
 
 BERTweet
-
-
-GPT
 
 
 BigBird
