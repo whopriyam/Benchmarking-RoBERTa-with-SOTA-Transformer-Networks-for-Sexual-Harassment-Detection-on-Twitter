@@ -17,13 +17,13 @@ ALBERT - Done
 Ernie (On RobertaBaseCased and BERTBaseCased) and Baseline - Done
 
 
-Transformer-XL
+Transformer-XL Priyam
 
 
-GPT
+GPT Ashima
 
 
-T5
+T5 Ashima
 
 
 Longformer
@@ -32,7 +32,7 @@ Longformer
 Reformer
 
 
-BERTweet
+BERTweet Tiasa
 
 
 BigBird
