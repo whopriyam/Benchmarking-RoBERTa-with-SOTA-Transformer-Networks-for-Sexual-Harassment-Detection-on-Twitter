@@ -14,7 +14,8 @@ DistilBERT - Done
 ALBERT - Done
 
 
-Ernie (On RobertaBaseCased) - Done
+Ernie (On RobertaBaseCased and BERTBaseCased) and Baseline - Done
+
 
 Transformer-XL
 
