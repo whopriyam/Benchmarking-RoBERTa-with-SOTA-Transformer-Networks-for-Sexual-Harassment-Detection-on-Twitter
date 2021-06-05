@@ -2,6 +2,7 @@
 
 ### List of transformers:
 
+
 BERT - Done
 
 
@@ -17,7 +18,13 @@ ALBERT - Done
 Ernie (On RobertaBaseCased and BERTBaseCased) and Baseline - Done
 
 
-Transformer-XL Priyam
+BERTweet - Done
+
+
+XLNet - Done
+
+
+Longformer - Done
 
 
 GPT Ashima
@@ -26,13 +33,8 @@ GPT Ashima
 T5 Ashima
 
 
-Longformer
-
-
 Reformer
 
 
-BERTweet Tiasa
-
-
 BigBird
+
