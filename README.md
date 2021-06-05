@@ -2,6 +2,7 @@
 
 ### List of transformers:
 
+
 BERT - Done
 
 
@@ -23,13 +24,13 @@ BERTweet - Done
 XLNet - Done
 
 
+Longformer - Done
+
+
 GPT Ashima
 
 
 T5 Ashima
-
-
-Longformer
 
 
 Reformer
