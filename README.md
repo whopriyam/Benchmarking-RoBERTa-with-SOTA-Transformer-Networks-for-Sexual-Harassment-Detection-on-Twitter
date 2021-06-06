@@ -30,7 +30,7 @@ Longformer - Done
 GPT Ashima
 
 
-T5 Ashima
+T5 done
 
 
 Reformer
