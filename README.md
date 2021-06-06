@@ -27,10 +27,10 @@ XLNet - Done
 Longformer - Done
 
 
+T5 - Done
+
+
 GPT Ashima
-
-
-T5 done
 
 
 Reformer
