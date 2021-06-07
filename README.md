@@ -15,6 +15,9 @@ DistilBERT - Done
 ALBERT - Done
 
 
+T5 - Done
+
+
 Ernie (On RobertaBaseCased and BERTBaseCased) and Baseline - Done
 
 
@@ -25,9 +28,6 @@ XLNet - Done
 
 
 Longformer - Done (keep it as backup as longformer is mostly used for >1000 token input
-
-
-T5 - Done
 
 
 BigBird - Done
