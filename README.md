@@ -24,7 +24,7 @@ BERTweet - Done
 XLNet - Done
 
 
-Longformer - Done
+Longformer - Done (keep it as backup as longformer is mostly used for >1000 token input
 
 
 T5 - Done
