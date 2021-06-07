@@ -30,13 +30,17 @@ Longformer - Done
 T5 - Done
 
 
+BigBird - Done
+
+
+Electra - Done
+
+
 GPT - ( backup )Ashima
 
 
 Reformer - Discard
 
 
-BigBird - done
 
-Electra - done
 
