@@ -1,19 +1,2 @@
-# Repo for the paper
-
-Cite this for sarcasm dataset:
-
-@article{misra2019sarcasm,
-  title={Sarcasm Detection using Hybrid Neural Network},
-  author={Misra, Rishabh and Arora, Prahal},
-  journal={arXiv preprint arXiv:1908.07414},
-  year={2019}
-}
-
-@book{book,
-author = {Misra, Rishabh and Grover, Jigyasa},
-year = {2021},
-month = {01},
-pages = {},
-title = {Sculpting Data for ML: The first act of Machine Learning},
-isbn = {978-0-578-83125-1}
-}
+This project is a detailed benchmark comparison of state-of-the-art transformer networks namely - BERT,  RoBERTa, DistilBERT, ALBERT, XLNet, ERNIE, Longformer and ELECTRA  for detection of sexual harassment on Twitter data. Also benchmarked the same for Sarcastic news headlines classification where RoBERTa outperformed all the architectures with accuracies of 83.63% and 90% on the respective datasets. 
+A detailed study was carried out on the comparative performances during the training process and overall evaluation was conducted and documented.
